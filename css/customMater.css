@@ -1,0 +1,87 @@
+html, body {
+  height:100%
+}
+
+.test
+{
+    width:50%;
+    height:50%;
+    background-color: red;
+}
+
+.test2 {
+  width:50%;
+  height:50%;
+  background-color: blue;
+}
+
+.col {
+    width:80%;
+    height:50%;
+    background-color:#eee;
+}
+
+.upleft{
+  height:300px;
+
+}
+.upright{
+  height:300px;
+ 
+}
+.botleft{
+  height:438px;
+  
+}
+.botright{
+  height:438px;
+}
+
+.classwithupleft{
+  background-image: url(../images/liv-bruce-270665.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height:300px;
+  margin-left: -11px;
+  margin-right:-5px;
+}
+.classwithupright{
+  background-image: url(../images/joshua-reddekopp-315821.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 50%;
+  margin-right: -11px;
+  margin-left: -5px;
+}
+.classwithbotleft{
+  background-color: #54098E;
+  height:50%;
+  margin-left: -11px;
+  margin-right:-5px;
+}
+.classwithbotright{
+  height:50%;
+  margin-right: -11px;
+  margin-left: -5px;
+}
+.botrightleft{
+  height:50%;
+  margin-top: 5px;
+}
+.botrightright{
+  height:50%;
+}
+.botrighttop{
+  height:50%;
+  margin-top:5px;
+  margin-left:-5px;
+  margin-right:-11px;
+  margin-bottom: -11px; 
+}
+.botrightbot{
+  height:50%;
+  margin-bottom: 9px;
+  margin-left: -5px;
+  margin-right:-11px;
+  margin-top: 16px;
+}
